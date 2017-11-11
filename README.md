@@ -7,9 +7,9 @@ The Cloud Natural Language API can analyze sentences in multiple languages and i
 To get started, go to script.google.com and create a new project. Then go to Resources – Cloud Platform Project to open Google Developers Console. Here go to the API section and enable the Natular Language API under Google Cloud Machine Learning. Next click on Credentials to create an API key for your Google Script.
 
 ##Things to know:
-1.If you don’t specify document.language, then the language will be automatically detected.
-2.You can upload the text file to Google Cloud Storage and specify the URI without the need to send the contents of the file in the body of your request.
-3.Google Cloud Natural Language API requires billing to be enabled.
+1. If you don’t specify document.language, then the language will be automatically detected.
+2. You can upload the text file to Google Cloud Storage and specify the URI without the need to send the contents of the file in the body of your request.
+3. Google Cloud Natural Language API requires billing to be enabled.
 
 # Author
 Written by [SarmadGardezi](http://sarmadgardezi.com) for [Developers](http://thedevelopers.pk). Follow me on [@twitter](https://twitter.com/@SarmadGardezi) & [Facebook](https://facebook.com/SarmadGardezi)
